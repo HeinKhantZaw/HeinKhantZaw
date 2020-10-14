@@ -1,5 +1,14 @@
-### Hi There! I'm Hein Khant Zaw 👋
+### Hi There! 👋
 
+### 🤓 &nbsp;About Me
+My name is Hein Khant Zaw and I am a Computer Science Undergraduate Student from the University of Information Technology Yangon. I'm from Myanmar(Burma), living in Yangon.
+
+### 💬 &nbsp;Favourite Quote
+<p align="center">
+  <i>The brick walls are there for a reason. They’re not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. The brick walls are there to stop the people who don’t want it badly enough.<br>
+Sometimes, the most impenetrable brick walls are made of flesh.</i>
+ </p>
+ 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -8,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeinKhantZaw&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
+
 
 <!--
 **HeinKhantZaw/HeinKhantZaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
