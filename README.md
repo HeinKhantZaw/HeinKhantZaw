@@ -4,7 +4,7 @@
 <p>My name is Hein Khant Zaw and I am a Computer Science Undergraduate Student from the University of Information Technology Yangon. I'm from Myanmar(Burma), currently living in Yangon.     
 </p>
 
-![Total Visitors: Hein Khant Zaw](https://komarev.com/ghpvc/?username=HeinKhantZaw&color=green)
+![Total Visitors: Hein Khant Zaw](https://komarev.com/ghpvc/?username=HeinKhantZaw&color=green&style=plastic)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn%20-Hein%20Zaw-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hein-zaw-66901b195/)](https://www.linkedin.com/in/hein-zaw-66901b195/)
 [![Twitter: Hein_Khant_zaw](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/SherlockHein)
 [![Facebook: Hein Khant Zaw](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/hein.zaw.9028)
